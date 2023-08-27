@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Priyanshu Anand!
-![.](https://github.com/yourusername/yourrepository/raw/main/path/to/your/image.png)
+![.]([https://github.com/yourusername/yourrepository/raw/main/path/to/your/image.png](https://github.com/thisispriyanshuanand/thisispriyanshuanand/blob/main/priyanshuanand.png))
 
 Welcome to my GitHub universe! 🚀 As a passionate Software Developer and Ethical Hacker, I'm thrilled to give you a glimpse into my world:
 
